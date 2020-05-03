@@ -15,6 +15,7 @@ Plugin 'junegunn/vim-easy-align'
 Plugin 'vhda/verilog_systemverilog.vim'
 Plugin 'tpope/vim-markdown'
 Plugin 'jonathanfilip/vim-lucius'
+Plugin 'manideepsegu/vim-comments'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
